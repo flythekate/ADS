@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>images/cruz.jpg</file>
+        <file>images/icon.png</file>
+        <file>images/agv-1.jpg</file>
+    </qresource>
+</RCC>
